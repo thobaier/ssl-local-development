@@ -14,7 +14,7 @@ Like a standard symfony application (with and without www in front) and a phpMyA
 
 ## 1) Clone this repository in a new folder ("ssl" in this example)
 ```bash
-git clone XXX@XXX ssl
+git clone https://github.com/thobaier/ssl-local-development ssl
 ```
 
 ## 2) Generate the root certificate.
